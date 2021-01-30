@@ -9,6 +9,6 @@ class Solution {
                 maxProfit = prices[i] - min;
         }
         return maxProfit;
-        
+     //Tc: O(n) and SC: O(1)   
     }
 }
