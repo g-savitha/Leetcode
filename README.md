@@ -1,6 +1,6 @@
 # Leetcode
 
-A collection of problems I I solved on leetcode.
+A collection of problems I solved on leetcode.
 
 [Check out my leetcode profile](https://leetcode.com/g-savitha/)
 
